@@ -28,3 +28,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Emily-873&" alt="Emily-873" /></p>
 
+<h3 align="center">Contribution Graph 👾</h3>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emily-873/Emily-873/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Emily-873/Emily-873/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Emily-873/Emily-873/output/pacman-contribution-graph-dark.svg" width="100%">
+  </picture>
+</div>
